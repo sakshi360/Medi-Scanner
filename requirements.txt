@@ -1,0 +1,2 @@
+boto3
+python 3.9
