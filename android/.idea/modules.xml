@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Authenetication.iml" filepath="$PROJECT_DIR$/.idea/modules/Authenetication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Authenetication.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Authenetication.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1851268821/Authenetication.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1851268821/Authenetication.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1426698680/Authenetication.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1426698680/Authenetication.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1452290521/Authenetication.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1452290521/Authenetication.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1604244990/Authenetication.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1604244990/Authenetication.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1257243754/Authenetication.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1257243754/Authenetication.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

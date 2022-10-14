@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-image-tools-wm/ios/RNImageTools.h

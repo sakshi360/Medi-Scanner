@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fbjni:fbjni-java-only:0.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fbjni/fbjni-java-only/0.3.0/19ffb4a960abb25cc6b346748504b2aa5ffb9d1a/fbjni-java-only-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fbjni/fbjni-java-only/0.3.0/33a952179f97f659ccea7f43858c6463f2b4e6d2/fbjni-java-only-0.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fbjni/fbjni-java-only/0.3.0/b2b6faf94cfeaca144e8b2023bc421d4358fdc65/fbjni-java-only-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

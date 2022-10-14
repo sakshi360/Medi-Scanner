@@ -1,0 +1,25 @@
+{
+  "name": "RNImageTools",
+  "version": "1.5.8",
+  "summary": "RNImageTools",
+  "description": "A collection of image processing tools for React Native",
+  "homepage": "https://github.com/wowmaking/react-native-image-tools",
+  "license": "MIT",
+  "authors": {
+    "Dmitry Kazlouski": "dkazlouski@wowmaking.net"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/wowmaking/react-native-image-tools",
+    "tag": "v1.5.8"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+module Pods_Authenetication_AutheneticationTests {
+  umbrella header "Pods-Authenetication-AutheneticationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
