@@ -93,10 +93,10 @@ const index = () => {
           },
           {
             //  keyPrefix: '**Your Key Prefix**', // Ex. myuploads/
-            bucket: 'awshackathonoct2023',
+            bucket: '**Your bucket name **',
             region: 'us-east-1',
-            accessKey: 'AKIAZYJIRTBM4DH7B3LE',
-            secretKey: 'Ao3yaohDyo0eODIUx1I1Vv0PFPD1OYSSrOWPDuMT',
+            accessKey: '**Your access key **',
+            secretKey: '**Your secret Key **',
             successActionStatus: 201,
           },
         )
