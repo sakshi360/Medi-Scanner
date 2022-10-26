@@ -28,6 +28,7 @@ def lambda_handler(event, context):
     # results to S3 as CSV file
     print("event")
     print(event)
+    logger.info(event)
     obj=event['Records'][0]['s3']['object']['key']
     bucket=event['Records'][0]['s3']['bucket']['name']
     try:
@@ -50,8 +51,6 @@ def lambda_handler(event, context):
                 'medication':med_names
                 },)
         logger.info("updated database")
-        # response2 = comprehend.infer_rx_norm(Text=data)
-        # print("medicines 2",response2)
 
         # print("successfully parsed:" + filename)
     except Exception as e:
